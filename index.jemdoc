@@ -1,0 +1,252 @@
+= Yao Wang
+
+~~~
+{}{table}{TABLE_Introduce}
+{{<img class="float padright10px" src="images/wy3.png" width='180' height='304'></img>}}
+\n\n
+
+Associate Professor \n\n
+
+Center for Intelligent Decision-Making and Machine Learning \n\n
+
+[https://som.xjtu.edu.cn/ School of Management] \n\n
+
+[http://www.xjtu.edu.cn/ Xi 'an Jiaotong University] \n\n
+
+
+*Office*: Wenguan building 736, No. 28 Xianning West Road, Xi 'an, China \n\n
+
+*Email*: [mailto:yao.s.wang@gmail.com yao.s.wang@gmail.com] \n\n
+
+[https://scholar.google.com.hk/citations?user=_aLM_uYAAAAJ&hl=zh-CN Google Scholar]
+
+~~~
+
+
+== About Me
+I am an Associate Professor at the Center for Intelligent Decision-Making and Machine Learning 
+at Xi'an Jiaotong University. Prior to this, I was a faculy member at the Department of Statistics 
+at Xi'an Jiaotong University.  My current research focuses on the interplay of machine learning 
+and managment science. I received my Ph.D. in Applied Mathematics from Xi'an Jiaotong University in 2014, under the supervision of [https://gr.xjtu.edu.cn/en/web/zbxu Prof. Zongben Xu]. 
+During my Ph.D. study, I was a visiting student at the H. Milton Stewart School of Industrial and Systems Engineering at Georgia Tech, advised by [http://www.columbia.edu/~my2550/ Prof. Ming Yuan].
+
+*I am looking for highly motivated Ph.D. and Master students with strong mathematical background, who are interest in high-dimensional data analysis, machine learning and optimization.*
+
+== Preprints Under Review
+- [doc/ijoc-v3.pdf
+Profit-Driven Team Grouping in Social Networks]
+(2022; with S. Tang, J. Yuan and T. Li)
+- [
+    Tensor Robust PCA with Side Information: Models and Applications]
+    (2022; with Z. Han, S. Zhang, Y. Wang and J. Yao).
+- [doc/HSI-Superresolution.pdf
+    Hyperspectral Image Super-resolution via Knowledge-Driven Deep Unrolling and Transformer Embedded Convolutional Recurrent Neural Network]
+    (2022; with K. Wang, X. Liao, J. Li and D. Meng).
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4133647
+    Robust Tensor Completion with Side Information]
+    (2022; with Q. Yi, Y. Yang, D. Wang and S. Tang).
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4128032
+Enabling Collaborative Diagnosis through Novel
+Distributed Learning System with Autonomy]
+(2022; with X. Liu, S. Tang  and S.B. Lin).
+- [https://arxiv.org/pdf/2111.14039.pdf
+Generalization Performance of Empirical Risk Minimization on Over-parameterized Deep ReLU Nets]
+(2021; with S.B. Lin and D.X. Zhou).
+- [https://arxiv.org/pdf/2109.11703.pdf
+An Improved Frequent Directions Algorithm for Low-Rank Approximation via Block Krylov Iteration]
+(2021; with C. Wang, Q. Yi and X. Liao).
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3908616
+When Advertising meets Assortment Planning: Joint Advertising and Assortment Optimization under Multinomial Logit Model]
+(2021; with C. Wang and S. Tang).
+- [https://arxiv.org/pdf/2009.07558.pdf
+Kernel-based L2-Boosting with Structure Constraints]
+(2020; with X. Guo and S.B. Lin).
+
+
+== Selected Published Articles
+- [https://arxiv.org/pdf/2111.07109.pdf
+Nystr\"{o} m Regularization for Time Series Forecasting] (with Z. Sun, M. Dai and S.B. Lin),
+ /Journal of Machine Learning Research/, 2022+
+- [https://ieeexplore.ieee.org/document/9875963/
+Exact Decomposition of Joint Low Rankness and Local Smoothness Plus Sparse Matrices] 
+(with J. Peng, H. Zhang, J. Wang and D. Meng), /IEEE Transactions on Pattern Analysis and Machine Intelligence/,
+2022+.
+- [https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1224
+Toward Efficient Ensemble Learning with Structure Constraints:
+ Convergent Algorithms and Applications] (with S.B. Lin, S. Tang and D. Wang),
+ /INFORMS Journal on Computing/, 2022+.
+ 
+ - [https://ieeexplore.ieee.org/abstract/document/9796147
+Effective streaming low-tubal-rank tensor approximation via frequent directions]
+(with Q. Yi, C. Wang and K. Wang),
+/IEEE Transactions on Neural Networks and Learning Systems/, 2022+.
+
+- [https://ieeexplore.ieee.org/abstract/document/9772051
+A Tensor-Based Online RPCA Model for Compressive Background Subtraction]
+(with Z. Li, Q. Zhao, S. Zhang and D. Meng),
+/IEEE Transactions on Neural Networks and Learning Systems/, 2022+.
+
+- [https://proceedings.mlr.press/v162/qiu22d/qiu22d.pdf
+ Fast and Provable Nonconvex Tensor RPCA]
+ (with H. Qiu, S. Tang, D. Meng and Q. Yao),
+ /International Conference on Machine Learning, 18211-18249/, 2022.
+ 
+ - [https://ieeexplore.ieee.org/document/9369083
+Robust low-tubal-rank tensor recovery from binary measurements]
+ (with J. Hou, F. Zhang, H. Qiu, J. Wang and D. Meng),
+/IEEE Transactions on Pattern Analysis and Machine Intelligence/, 2022.
+
+
+- [https://ieeexplore.ieee.org/abstract/document/9791317
+Effective Tensor Completion via Element-wise Weighted
+Low-rank Tensor Train with Overlapping Ket Augmentation]
+(with Y. Zhang, Z. Han and Y. Tang),
+/IEEE Transactions on Circuits and Systems for Video Technology/, 2022.
+
+- [https://www.sciencedirect.com/science/article/abs/pii/S0165168422000111
+Total variation regularized nonlocal low-rank tensor train
+ for spectral compressive imaging]
+ (with Y. Han, K. Wang and X.L. Zhao),
+ /Signal Processing/, 2022.
+
+
+- [https://ieeexplore.ieee.org/abstract/document/9714287
+Universal Consistency of Deep Convolutional Neural Networks]
+(with S.B. Lin, K. Wang and D.X. Zhou),
+/IEEE Transactions on Information Theory/, 2022.
+
+- [https://www.sciencedirect.com/science/article/abs/pii/S0167637721001607
+Assortment optimization with repeated exposures
+and product-dependent patience cost]
+(with S. Tang, J. Yuan, C. Wang and L. Chen),
+/Operations Research Letters/, 2022.
+
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:QYdC8u9Cj1oC
+SPLBoost: An Improved Robust Boosting Algorithm Based on Self-paced Learning]
+ (with K. Wang, Q. Zhao, D. Meng, X. Liao and Z. Xu),
+ /IEEE Transactions on Cybernetics 51 (3), 1556 - 1570/, 2021.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:uDGL6kOW6j0C
+ Effective Snapshot Compressive-Spectral Imaging via Deep Denoising and Total Variation Priors]
+ (with  H. Qiu and D. Meng),
+ /CVPR, 9127 - 9136/, 2021.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:0CzhzZyukY4C Hyperspectral and Multispectral Image Fusion via Nonlocal Low-Rank Tensor Decomposition and Spectral Unmixing] (with K. Wang, X. Zhao, J. Chan, Z. Xu and D. Meng), /IEEE Transactions on Geoscience and Remote Sensing 58 (11), 7654 - 7671/, 2020.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:nVrZBo8bIpAC A preference learning framework for multiple criteria sorting with diverse additive value models and valued assignment examples] (with J. Liu, M. Kadziński, X. Liao and X. Mao), /European Journal of Operational Research 286 (3), 963-985/, 2020.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:a3BOlSfXSfwC Enhanced 3DTV regularization and its applications on HSI denoising and compressed sensing] (with J. Peng, Q. Xie, Q. Zhao, Y. Leung and D. Meng), /IEEE Transactions on Image Processing 29, 7889 - 7903/, 2020.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:2tRrZ1ZAMYUC Single-pixel foreground imaging without a priori background sensing] (with S. Zhao, R. Liu, P. Zhang, H. Gao, F. Huang and F. Li), /Optics Express 28 (18), 26018-26027/, 2020.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:Bg7qf7VwUHIC Low-tubal-rank tensor recovery from one-bit measurements] (with J. Hou, F. Zhang and J. Wang), /ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/, 2020.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:BJbdYPG6LGMC A Fast and Accurate Frequent Directions Algorithm for Low Rank Approximation via Block Krylov Iteration] (with Q. Yi, C. Wang and X. Liao), /ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)/, 2020.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:r_AWSJRzSzQC Joint analysis of individual-level and summary-level GWAS data by leveraging pleiotropy] (with M. Dai, X. Wan, H. Peng, Y. Liu, J. Liu, Z. Xu and C. Yang), /Bioinformatics 35 (10), 1729-1736/, 2019.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:yqoGN6RLRZoC Unified Low-Rank Matrix Estimate via Penalized Matrix Least Squares Approximation] (with X. Chang, Y. Zhong and S. Lin), /IEEE Transactions on Neural Networks and Learning Systems 30 (2), 474-485/, 2019.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:AHdEip9mkN0C Deep generative learning via variational gradient flow] (with Y. Gao, Y. Jiao, Y. Wang, C. Yang and S. Zhang), /ICML/, 2019.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:P7Ujq4OLJYoC Rescaled Boosting in Classification] (with X. Liao and S. Lin), /IEEE Transactions on Neural Networks and Learning Systems 30 (9), 2598-2610/, 2019.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:KbBQZpvPDL4C Fastderain: A novel video rain streak removal method using directional gradient priors] (with T.X. Jiang, T.Z. Huang, X.L. Zhao and L.J. Deng), /IEEE Transactions on Image Processing 28 (4), 2089-2102/, 2019.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:fFSKOagxvKUC A Generalized Model for Robust Tensor Factorization with Noise Modeling by Mixture of Gaussians] (with X. Chen, Z. Han, Q. Zhao, D. Meng, L. Lin and Y. Tang), /IEEE Transactions on Neural Networks and Learning Systems, 1-14/, 2018.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:HeT0ZceujKMC Hyperspectral image restoration via total variation regularized low-rank tensor decomposition] (with J. Peng, Q. Zhao, D. Meng, Y. Leung and X. Zhao), /IEEE Journal of Selected Topics in Applied Earth Observations and Remote/, 2018.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:HIFyuExEbWQC Sparse recovery: from vectors to tensors] (with D. Meng and M. Yuan), /National Science Review 5 (5), 756-767/, 2018.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:bKqednn6t2AC Compressive sensing of hyperspectral images via joint tensor tucker decomposition and weighted total variation regularization] (with L. Lin, Q. Zhao, T. Yue, D. Meng and Y. Leung), /IEEE Geoscience and Remote Sensing Letters 14 (12), 2457-2461/, 2017.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:HtS1dXgVpQUC Tensor rpca by bayesian cp factorization with complex noise] (with Q. Luo, Z. Han, X. Chen, D. Meng, D. Liang and Y. Tang), /Proceedings of the IEEE International Conference on Computer Vision, 5019-5028/, 2017.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:mNrWkgRL2YcC A novel tensor-based video rain streaks removal approach via utilizing discriminatively intrinsic priors] (with T. Jiang, T. Huang, X. Zhao and L. Deng), /Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition/, 2017.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:OTTXONDVkokC Divide and conquer local average regression] (with X. Chang and S.B. Lin), /Electronic Journal of Statistics 11 (1), 1326-1350/, 2017.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:sNmaIFBj_lkC Total variation regularized tensor RPCA for background subtraction from compressive measurements] (with W. Cao, J. Sun, D. Meng, C. Yang, A. Cichocki and Z. Xu), /IEEE Transactions on Image Processing 25 (9), 4075-4090/, 2016.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:3htObqc8RwsC Shrinkage Degree in L2 -Rescale Boosting for Regression] (with L. Xu, S. Lin and Z. Xu), /IEEE Transactions on Neural Networks and Learning Systems 28 (8), 1851-1864/, 2016.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:2VqYfGB8ITEC Nonconvex plus quadratic penalized low-rank and sparse decomposition for noisy image alignment] (with X. Chen, Z. Han, Y. Tang and H. Yu), /Science China Information Sciences 59 (5), 1-13/, 2016.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:_5tno0g5mFcC Robust tensor factorization with unknown noise] (with X. Chen, Z. Han,  Q. Zhao, D. Meng and Y. Tang), /Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition/, 2016.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:6ZxmRoH8BuwC Low-rank matrix factorization under general mixture noise distributions] (with X. Cao, Y. Chen, Q. Zhao, D. Meng, D. Wang and Z. Xu), /Proceedings of the IEEE International Conference on Computer Vision, 1493-1501/, 2015.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:umqufdRvDiIC A novel sparsity measure for tensor recovery] (with Q. Zhao, D. Meng, X. Kong, Q. Xie, W. Cao and Z. Xu), /Proceedings of the IEEE International Conference on Computer Vision, 271-279/, 2015.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:4hFrxpcac9AC Restricted p-isometry properties of nonconvex block-sparse compressed sensing] (with J. Wang and Z. Xu), /Signal Processing 104, 188-196/, 2014.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:NXb4pA-qfm4C
+  L1\/2 Regularization: Convergence of Iterative Half Thresholding Algorithm]
+   (with J. Zeng, S. Lin and Z. Xu),
+   /IEEE Transactions on Signal Processing 62 (9), 2317-2329/, 2014.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:a9-T7VOCCH8C On recovery of block-sparse signals via mixed l 2\/lq (0< q≤ 1) norm minimization] (with J. Wang and Z. Xu), /EURASIP Journal on Advances in Signal Processing 2013 (1), 1-17/, 2013.
+
+- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:0izLItjtcgwC
+L1\/2 regularization]
+(with Z. Xu, H. Zhang, X. Chang and Y. Liang),
+/Science China Information Sciences 53 (6), 1159-1169/, 2010.
+
+
+== Group
+~~~
+{}{table}{TABLE_MEMBERS}
+Current members | Pursuming | Contact ||
+Biao Xu | Ph.D., 2020- |
+  [mailto:xubiao.xjtu@gmail.com xubiao.xjtu@gmail.com]||
+[https://qianxinyi97.github.io/ Qianxin Yi] | Ph.D., 2021- |
+  [mailto:YiQianXin01@163.com YiQianXin01@163.com]||
+Yishan Han | Ph.D., 2021- |
+  [mailto:13.yishan.han@gmail.com 13.yishan.han@gmail.com]||
+Jiannan Li | Ph.D., 2022- |
+  [mailto:1500188165@qq.com 1500188165@qq.com]||
+Zhiyuan Chen (co-advised with [https://gr.xjtu.edu.cn/en/web/zhujh Prof. Jihua Zhu]) | M.S., 2020- |
+  [mailto:zhiyuan.chen01@gmail.com  zhiyuan.chen01@gmail.com ]||
+Pengyu Zuo | M.S., 2021- |
+  [mailto:zpyqwq@gmail.com zpyqwq@gmail.com]||
+Tao Li (co-advised with \n [https://som.xjtu.edu.cn/info/1014/5976.htm Prof. Di Wang]) | M.S., 2021- |
+  [mailto:littt1024@gmail.com littt1024@gmail.com]||
+Yiyang Yang | M.S., 2022- |
+  [mailto:yyyang817@gmail.com yyyang817@gmail.com]||
+~~~
+
+~~~
+{}{table}{TABLE_MEMBERS}
+Former members | Thesis | Current Position ||
+Chenhao Wang,    \n 2019-2022, M.S. | - When Advertising meets Assortment Planning: Joint \n Advertising and Assortment Optimization under \n Multinomial Logit Model |
+  Ph.D. candidate at \n The Chinese University of Hong Kong, Shenzhen||
+  Haiquan Qiu (co-advised with [https://gr.xjtu.edu.cn/en/web/dymeng Prof. Deyu Meng]),    \n 2019-2022, M.S. | - The Representation Methods of Structural Data and \n Their Applications | Ph.D. candidate at Tsinghua University||
+  Yuan Gao, \n 2017-2020, M.S. | - Implicit Generative Models: From Algorithms to \n Theories |
+  Ph.D. candidate at \n The Hong Kong Polytechnic University||
+  Kaidong Wang (co-advised with [https://gr.xjtu.edu.cn/en/web/zbxu Prof. Zongben Xu]), \n 2015-2020, Ph. D. | - Some Topics on Loss Functions and Regularizers in \n Machine Learning |
+  Assistant professor at Xi'an Jiaotong University||
+~~~
+
+== Courses
+- Data Mining and Knowledge Discovery (MEM Core Class)
+- Business Data Analytics (MBA Core Class)
+- Optimization: Theory and Algorithms (Undergraduate Class)
+- Foundations of Big Data Analytics (Undergraduate Class)
+- High-dimensional Data Analysis (Undergraduate Class)
+- Business Artificial Intelligence (Undergraduate Special Topics Class)
+
+
+== Selected Talks
+- Fast and Provable Nonconvex Tensor RPCA ([doc/talk(202208_wuhan).pdf Slides])
+- Effective Snapshot Compressive-spectral Imaging via Deep Denoising and Total Variation Priors ([doc/talk(202204_gz).pdf Slides])
+- Joint Advertising and Assortment Optimization under Multinomial Logit Model
+- Ffficient Frequent Directions Algorithms for Streaming Low-Rank Approximations
+- Tensor-related Methods in Complex Data Analysis
+
+
+
+
+
+
