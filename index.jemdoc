@@ -33,12 +33,11 @@ During my Ph.D. study, I was a visiting student at the H. Milton Stewart School 
 *I am looking for highly motivated Ph.D. and Master students with strong mathematical background, who are interest in high-dimensional data analysis, machine learning and optimization.*
 
 == Preprints Under Review
+- [ Efficient Fraud Detection using Deep Boosting Decision Trees]
+(2023; with B. Xu, K. Wang and X. Liao)
 - [doc/ijoc-v3.pdf
 Profit-Driven Team Grouping in Social Networks]
 (2022; with S. Tang, J. Yuan and T. Li)
-- [
-    Tensor Robust PCA with Side Information: Models and Applications]
-    (2022; with Z. Han, S. Zhang, Y. Wang and J. Yao).
 - [doc/HSI-Superresolution.pdf
     Hyperspectral Image Super-resolution via Knowledge-Driven Deep Unrolling and Transformer Embedded Convolutional Recurrent Neural Network]
     (2022; with K. Wang, X. Liao, J. Li and D. Meng).
@@ -52,9 +51,6 @@ Distributed Learning System with Autonomy]
 - [https://arxiv.org/pdf/2111.14039.pdf
 Generalization Performance of Empirical Risk Minimization on Over-parameterized Deep ReLU Nets]
 (2021; with S.B. Lin and D.X. Zhou).
-- [https://arxiv.org/pdf/2109.11703.pdf
-An Improved Frequent Directions Algorithm for Low-Rank Approximation via Block Krylov Iteration]
-(2021; with C. Wang, Q. Yi and X. Liao).
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3908616
 When Advertising meets Assortment Planning: Joint Advertising and Assortment Optimization under Multinomial Logit Model]
 (2021; with C. Wang and S. Tang).
@@ -64,27 +60,36 @@ Kernel-based L2-Boosting with Structure Constraints]
 
 
 == Selected Published Articles
-- [https://arxiv.org/pdf/2111.07109.pdf
-Nystr\"{o} m Regularization for Time Series Forecasting] (with Z. Sun, M. Dai and S.B. Lin),
- /Journal of Machine Learning Research/, 2022+
+- [https://ieeexplore.ieee.org/abstract/document/10026252
+    Tensor Robust PCA with Side Information: Models and Applications] (with Z. Han, S. Zhang, Y. Wang and J. Yao), 
+    /IEEE Transactions on Circuits and Systems for Video Technology/, 2023+.
+- [https://ieeexplore.ieee.org/abstract/document/10011181
+An Improved Frequent Directions Algorithm for Low-Rank Approximation via Block Krylov Iteration] (with C. Wang, Q. Yi and X. Liao), 
+/IEEE Transactions on Neural Networks and Learning Systems/, 2023+.
 - [https://ieeexplore.ieee.org/document/9875963/
 Exact Decomposition of Joint Low Rankness and Local Smoothness Plus Sparse Matrices] 
 (with J. Peng, H. Zhang, J. Wang and D. Meng), /IEEE Transactions on Pattern Analysis and Machine Intelligence/,
-2022+.
-- [https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1224
-Toward Efficient Ensemble Learning with Structure Constraints:
- Convergent Algorithms and Applications] (with S.B. Lin, S. Tang and D. Wang),
- /INFORMS Journal on Computing/, 2022+.
+2023+.
+
  
  - [https://ieeexplore.ieee.org/abstract/document/9796147
 Effective streaming low-tubal-rank tensor approximation via frequent directions]
 (with Q. Yi, C. Wang and K. Wang),
-/IEEE Transactions on Neural Networks and Learning Systems/, 2022+.
+/IEEE Transactions on Neural Networks and Learning Systems/, 2023+.
 
 - [https://ieeexplore.ieee.org/abstract/document/9772051
 A Tensor-Based Online RPCA Model for Compressive Background Subtraction]
 (with Z. Li, Q. Zhao, S. Zhang and D. Meng),
-/IEEE Transactions on Neural Networks and Learning Systems/, 2022+.
+/IEEE Transactions on Neural Networks and Learning Systems/, 2023+.
+
+- [https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1224
+Toward Efficient Ensemble Learning with Structure Constraints:
+ Convergent Algorithms and Applications] (with S.B. Lin, S. Tang and D. Wang),
+ /INFORMS Journal on Computing 34 (6), 3096-3116/, 2022.
+
+- [https://arxiv.org/pdf/2111.07109.pdf
+Nystr\"{o} m Regularization for Time Series Forecasting] (with Z. Sun, M. Dai and S.B. Lin),
+ /Journal of Machine Learning Research 23 (312), 1-42/, 2022.
 
 - [https://proceedings.mlr.press/v162/qiu22d/qiu22d.pdf
  Fast and Provable Nonconvex Tensor RPCA]
@@ -94,32 +99,32 @@ A Tensor-Based Online RPCA Model for Compressive Background Subtraction]
  - [https://ieeexplore.ieee.org/document/9369083
 Robust low-tubal-rank tensor recovery from binary measurements]
  (with J. Hou, F. Zhang, H. Qiu, J. Wang and D. Meng),
-/IEEE Transactions on Pattern Analysis and Machine Intelligence/, 2022.
+/IEEE Transactions on Pattern Analysis and Machine Intelligence 44 (8), 4355-4373/, 2022.
 
 
 - [https://ieeexplore.ieee.org/abstract/document/9791317
 Effective Tensor Completion via Element-wise Weighted
 Low-rank Tensor Train with Overlapping Ket Augmentation]
 (with Y. Zhang, Z. Han and Y. Tang),
-/IEEE Transactions on Circuits and Systems for Video Technology/, 2022.
+/IEEE Transactions on Circuits and Systems for Video Technology 32 (11), 7286-7300/, 2022.
 
 - [https://www.sciencedirect.com/science/article/abs/pii/S0165168422000111
 Total variation regularized nonlocal low-rank tensor train
  for spectral compressive imaging]
  (with Y. Han, K. Wang and X.L. Zhao),
- /Signal Processing/, 2022.
+ /Signal Processing 195, 108464/, 2022.
 
 
 - [https://ieeexplore.ieee.org/abstract/document/9714287
 Universal Consistency of Deep Convolutional Neural Networks]
 (with S.B. Lin, K. Wang and D.X. Zhou),
-/IEEE Transactions on Information Theory/, 2022.
+/IEEE Transactions on Information Theory 68 (7)/, 2022.
 
 - [https://www.sciencedirect.com/science/article/abs/pii/S0167637721001607
 Assortment optimization with repeated exposures
 and product-dependent patience cost]
 (with S. Tang, J. Yuan, C. Wang and L. Chen),
-/Operations Research Letters/, 2022.
+/Operations Research Letters 50 (1), 8-15/, 2022.
 
 
 - [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:QYdC8u9Cj1oC
