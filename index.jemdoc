@@ -5,7 +5,7 @@
 {{<img class="float padright10px" src="images/wy3.png" width='180' height='304'></img>}}
 \n\n
 
-Associate Professor \n\n
+Professor \n\n
 
 Center for Intelligent Decision-Making and Machine Learning \n\n
 
@@ -24,7 +24,7 @@ Center for Intelligent Decision-Making and Machine Learning \n\n
 
 
 == About Me
-I am an Associate Professor at the Center for Intelligent Decision-Making and Machine Learning 
+I am a Professor at the Center for Intelligent Decision-Making and Machine Learning 
 at Xi'an Jiaotong University. Prior to this, I was a faculy member at the Department of Statistics 
 at Xi'an Jiaotong University.  My current research focuses on the interplay of machine learning 
 and managment science. I received my Ph.D. in Applied Mathematics from Xi'an Jiaotong University in 2014, under the supervision of [https://gr.xjtu.edu.cn/en/web/zbxu Prof. Zongben Xu]. 
@@ -33,14 +33,18 @@ During my Ph.D. study, I was a visiting student at the H. Milton Stewart School 
 *I am looking for highly motivated Ph.D. and Master students with strong mathematical background, who are interest in high-dimensional data analysis, machine learning and optimization.*
 
 == Preprints Under Review
-- [ Efficient Fraud Detection using Deep Boosting Decision Trees]
+- [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4413200 
+Deep Reinforcement Learning for Online Assortment Customization: A Data-Driven Approach]
+(2023; with T. Li, C. Wang and S. Tang)
+- [https://arxiv.org/abs/2302.10434
+Kernel-Based Distributed Q-Learning: A Scalable Reinforcement Learning Approach for Dynamic Treatment Regimes]
+(2023; with D. Wang, S.B. Lin and S. Tang)
+- [https://arxiv.org/abs/2302.05918 
+Efficient Fraud Detection Using Deep Boosting Decision Trees]
 (2023; with B. Xu, K. Wang and X. Liao)
 - [doc/ijoc-v3.pdf
 Profit-Driven Team Grouping in Social Networks]
 (2022; with S. Tang, J. Yuan and T. Li)
-- [doc/HSI-Superresolution.pdf
-    Hyperspectral Image Super-resolution via Knowledge-Driven Deep Unrolling and Transformer Embedded Convolutional Recurrent Neural Network]
-    (2022; with K. Wang, X. Liao, J. Li and D. Meng).
 - [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4133647
     Robust Tensor Completion with Side Information]
     (2022; with Q. Yi, Y. Yang, D. Wang and S. Tang).
@@ -60,27 +64,36 @@ Kernel-based L2-Boosting with Structure Constraints]
 
 
 == Selected Published Articles
+- [
+A Spectral-Spatial Feature Rotation based Ensemble Method for Imbalanced Hyperspectral Image Classification]
+    (with Y. Su, X. Li, J. Yao and C. Dong), /IEEE Transactions on Geoscience and Remote Sensing/, 2023.
+- [
+Regularized Online DR-Submodular Optimization]
+    (with P. Zuo and S. Tang), /Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (UAI)/, 2023.
+- [doc/HSI-Superresolution.pdf
+    Hyperspectral Image Super-resolution via Knowledge-Driven Deep Unrolling and Transformer Embedded Convolutional Recurrent Neural Network]
+    (with K. Wang, X. Liao, J. Li and D. Meng), /IEEE Transactions on Image Processing/, 2023.
 - [https://ieeexplore.ieee.org/abstract/document/10026252
     Tensor Robust PCA with Side Information: Models and Applications] (with Z. Han, S. Zhang, Y. Wang and J. Yao), 
-    /IEEE Transactions on Circuits and Systems for Video Technology/, 2023+.
+    /IEEE Transactions on Circuits and Systems for Video Technology/, 2023.
 - [https://ieeexplore.ieee.org/abstract/document/10011181
 An Improved Frequent Directions Algorithm for Low-Rank Approximation via Block Krylov Iteration] (with C. Wang, Q. Yi and X. Liao), 
-/IEEE Transactions on Neural Networks and Learning Systems/, 2023+.
+/IEEE Transactions on Neural Networks and Learning Systems/, 2023.
 - [https://ieeexplore.ieee.org/document/9875963/
 Exact Decomposition of Joint Low Rankness and Local Smoothness Plus Sparse Matrices] 
 (with J. Peng, H. Zhang, J. Wang and D. Meng), /IEEE Transactions on Pattern Analysis and Machine Intelligence/,
-2023+.
+2023.
 
  
  - [https://ieeexplore.ieee.org/abstract/document/9796147
 Effective streaming low-tubal-rank tensor approximation via frequent directions]
 (with Q. Yi, C. Wang and K. Wang),
-/IEEE Transactions on Neural Networks and Learning Systems/, 2023+.
+/IEEE Transactions on Neural Networks and Learning Systems/, 2023.
 
 - [https://ieeexplore.ieee.org/abstract/document/9772051
 A Tensor-Based Online RPCA Model for Compressive Background Subtraction]
 (with Z. Li, Q. Zhao, S. Zhang and D. Meng),
-/IEEE Transactions on Neural Networks and Learning Systems/, 2023+.
+/IEEE Transactions on Neural Networks and Learning Systems/, 2023.
 
 - [https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1224
 Toward Efficient Ensemble Learning with Structure Constraints:
@@ -231,7 +244,7 @@ Chenhao Wang,    \n 2019-2022, M.S. | - When Advertising meets Assortment Planni
   Yuan Gao, \n 2017-2020, M.S. | - Implicit Generative Models: From Algorithms to \n Theories |
   Ph.D. candidate at \n The Hong Kong Polytechnic University||
   Kaidong Wang (co-advised with [https://gr.xjtu.edu.cn/en/web/zbxu Prof. Zongben Xu]), \n 2015-2020, Ph. D. | - Some Topics on Loss Functions and Regularizers in \n Machine Learning |
-  Assistant professor at Xi'an Jiaotong University||
+  Assistant Professor at Xi'an Jiaotong University||
 ~~~
 
 == Courses
