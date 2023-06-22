@@ -25,7 +25,7 @@ Center for Intelligent Decision-Making and Machine Learning \n\n
 
 == About Me
 I am a Professor at the Center for Intelligent Decision-Making and Machine Learning 
-at Xi'an Jiaotong University. Prior to this, I was a faculy member at the Department of Statistics 
+at Xi'an Jiaotong University. Prior to this, I was a faculty member at the Department of Statistics 
 at Xi'an Jiaotong University.  My current research focuses on the interplay of machine learning 
 and managment science. I received my Ph.D. in Applied Mathematics from Xi'an Jiaotong University in 2014, under the supervision of [https://gr.xjtu.edu.cn/en/web/zbxu Prof. Zongben Xu]. 
 During my Ph.D. study, I was a visiting student at the H. Milton Stewart School of Industrial and Systems Engineering at Georgia Tech, advised by [http://www.columbia.edu/~my2550/ Prof. Ming Yuan].
@@ -39,9 +39,6 @@ Deep Reinforcement Learning for Online Assortment Customization: A Data-Driven A
 - [https://arxiv.org/abs/2302.10434
 Kernel-Based Distributed Q-Learning: A Scalable Reinforcement Learning Approach for Dynamic Treatment Regimes]
 (2023; with D. Wang, S.B. Lin and S. Tang)
-- [https://arxiv.org/abs/2302.05918 
-Efficient Fraud Detection Using Deep Boosting Decision Trees]
-(2023; with B. Xu, K. Wang and X. Liao)
 - [doc/ijoc-v3.pdf
 Profit-Driven Team Grouping in Social Networks]
 (2022; with S. Tang, J. Yuan and T. Li)
@@ -64,10 +61,13 @@ Kernel-based L2-Boosting with Structure Constraints]
 
 
 == Selected Published Articles
-- [
+- [doc/DSS-main.pdf
+Efficient Fraud Detection Using Deep Boosting Decision Trees]
+(with B. Xu, K. Wang and X. Liao), /Decision Support Systems/, 2023.
+- [https://ieeexplore.ieee.org/document/10141657
 A Spectral-Spatial Feature Rotation based Ensemble Method for Imbalanced Hyperspectral Image Classification]
     (with Y. Su, X. Li, J. Yao and C. Dong), /IEEE Transactions on Geoscience and Remote Sensing/, 2023.
-- [
+- [doc/UAI2023.pdf
 Regularized Online DR-Submodular Optimization]
     (with P. Zuo and S. Tang), /Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (UAI)/, 2023.
 - [doc/HSI-Superresolution.pdf
@@ -151,8 +151,6 @@ SPLBoost: An Improved Robust Boosting Algorithm Based on Self-paced Learning]
  /CVPR, 9127 - 9136/, 2021.
 
 - [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:0CzhzZyukY4C Hyperspectral and Multispectral Image Fusion via Nonlocal Low-Rank Tensor Decomposition and Spectral Unmixing] (with K. Wang, X. Zhao, J. Chan, Z. Xu and D. Meng), /IEEE Transactions on Geoscience and Remote Sensing 58 (11), 7654 - 7671/, 2020.
-
-- [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:nVrZBo8bIpAC A preference learning framework for multiple criteria sorting with diverse additive value models and valued assignment examples] (with J. Liu, M. Kadziński, X. Liao and X. Mao), /European Journal of Operational Research 286 (3), 963-985/, 2020.
 
 - [https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=_aLM_uYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_aLM_uYAAAAJ:a3BOlSfXSfwC Enhanced 3DTV regularization and its applications on HSI denoising and compressed sensing] (with J. Peng, Q. Xie, Q. Zhao, Y. Leung and D. Meng), /IEEE Transactions on Image Processing 29, 7889 - 7903/, 2020.
 
